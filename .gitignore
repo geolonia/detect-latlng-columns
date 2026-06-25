@@ -1,0 +1,4 @@
+node_modules
+*.tgz
+coverage
+# dist は git-tag 依存（github:geolonia/smartcity-csv-latlng#vX）でそのまま使うためコミットする
